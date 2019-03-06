@@ -1,6 +1,4 @@
 <!-- $theme: default -->
-<!-- template:invert -->
-
 
 ![rabbit](https://transkribus.eu/wiki/skins/common/images/wolpertinger.png)
 
@@ -22,9 +20,9 @@ Une solution développée
 - en partie seulement en *open-source*
 
 -- 
-> **OCR** : Optical Caracter Recognition
-> **HTR** : Handwritten Text Recognition
-> **OCR et HTR** = transcription automatique
+> **OCR** : Optical Caracter Recognition  
+> **HTR** : Handwritten Text Recognition  
+> **OCR et HTR** = transcription automatique  
 
 ---
 
@@ -36,19 +34,19 @@ Une solution développée
 - entraîner un modèle de transcription
 
 ### 2. Une interface en ligne
-- transkribus.eu/r/read/login/ 
+- [transkribus.eu/r/read/login/](https://transkribus.eu/r/read/login/)
 
 ### 3. Une API REST
-- transkribus.eu/wiki/index.php/REST_Interface
+- [transkribus.eu/wiki/index.php/REST_Interface](https://transkribus.eu/wiki/index.php/REST_Interface)
 
 ---
 
 # Qu'attendre de Transkribus ?
 
-| Au pire            | Au mieux           |
-| :----------------: | :----------------: |
+| Au pire                                   | Au mieux                                   |
+| :---------------------------------------: | :----------------------------------------: |
 | une plate-forme de transcription manuelle | un outil pour automatiser la transcription |
-| ![et c'est déjà bien](./img/yup.png) | ![c'est encore mieux](./img/yup.png) |
+| ![et c'est déjà bien](./img/yup.png)      | ![c'est encore mieux](./img/yup.png)       |
 
 ``` xml 
 0% d'erreur de reconnaissance (CER) ça n'existe pas
@@ -70,7 +68,7 @@ hétérogène
 --
 ``` xml
 Si je juge que le pré/post-traitement ne me fait pas passer 
-plus de temps à obtenir le même résultat qu'en transcrivant
+plus de temps à obtenir le même résultat qu'en transcrivant 
 à la main, alors oui !
 ```
 
